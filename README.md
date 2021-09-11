@@ -13,7 +13,7 @@
 - Basic Knowledge Of JAVA.
 
 
-⚡ **_Code to bring a change to the society, code for a cause_** ⚡
+⚡ **_It's harder to read code than to write it_** ⚡
 
 
 ### Things I am passionate about 🎯
