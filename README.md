@@ -35,7 +35,6 @@
   <img src="https://user-images.githubusercontent.com/53803245/122162502-4d749d80-ce91-11eb-9653-cd3b2ba73893.png" alt="CSS" width="35" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="PHP" width="40" height="35"/>
   <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="JS" width="35" height="40"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="PYTHON" width="35" height="40"/>
 </p>
 
 
