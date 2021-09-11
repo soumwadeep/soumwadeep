@@ -35,7 +35,7 @@
   <img src="https://user-images.githubusercontent.com/53803245/122162502-4d749d80-ce91-11eb-9653-cd3b2ba73893.png" alt="CSS" width="35" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="PHP" width="40" height="35"/>
   <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="JS" width="35" height="40"/>
-  <img src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="PYTHON" width="35" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="PYTHON" width="35" height="40"/>
 </p>
 
 
@@ -43,7 +43,6 @@
 ### Get in touch 📱
 <a href="https://www.linkedin.com/in/soumwadeep-guha-5b60031bb/"><img src="https://user-images.githubusercontent.com/53803245/122164708-d17c5480-ce94-11eb-9ebb-2bc93ad85295.png" width="50" height="50" /></a>
 <a href="https://twitter.com/SoumwadeepGuha"><img src="https://user-images.githubusercontent.com/53803245/122164759-df31da00-ce94-11eb-9257-9909aad6c986.png" width="50" height="50" /></a>
-<a href="https://www.instagram.com/thewardens2021/"><img src="https://icons.iconarchive.com/icons/designbolts/free-instagram/256/Hover-Instagram-3-icon.png" style="margin-right : 5px"/></a>
   
 [![Soumwadeep's github stats](https://github-readme-stats.vercel.app/api?username=soumwadeep&show_icons=true&theme=algolia)](https://github.com/soumwadeep?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumwadeep&show_icons=true&theme=algolia)](https://github.com/soumwadeep?tab=repositories) 
