@@ -50,8 +50,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumwadeep&langs_count=10&show_icons=true&theme=radical" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soumwadeep&theme=onedark)](https://github.com/soumwadeep/github-profile-trophy)
-
+<a href="https://github.com/soumwadeep?tab=repositories">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=soumwadeep&theme=onedark" />
+</a>
 
 
 
