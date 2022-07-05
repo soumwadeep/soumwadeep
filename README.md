@@ -5,7 +5,7 @@
 ## Hey there, Welcome to my profile ✌
 
 ### About Me
-- CSE 2nd Year (B.Tech)
+- CSE 3rd Year (B.Tech)
 - Love to make websites
 - Hacktoberfest Winner
 - Engaged in communities as core member like Hack Club, Codecademy, Google Developer Student Club's , Skillenza etc.
