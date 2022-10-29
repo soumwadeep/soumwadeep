@@ -34,7 +34,7 @@
   <img src="https://user-images.githubusercontent.com/53803245/122162757-afcd9e00-ce91-11eb-9049-85bc1f2f062a.png" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/53803245/122162404-27e79400-ce91-11eb-9f7d-7d6b3cb029c3.png" alt="HTML" width="35" height="45"/>
   <img src="https://user-images.githubusercontent.com/53803245/122162502-4d749d80-ce91-11eb-9653-cd3b2ba73893.png" alt="CSS" width="35" height="45"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="PHP" width="40" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="35" height="40"/>
   <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="JS" width="35" height="40"/>
 </p>
 
