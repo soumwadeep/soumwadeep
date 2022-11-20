@@ -10,7 +10,7 @@
 - Smart India Hackathon 2022 Champion
 - Hacktoberfest Winner
 - Engaged in communities as core member like Hack Club, Codecademy, Google Developer Student Club's , Skillenza etc.
-- Good Knowledge In HTML,CSS,JS,PHP,C,PYTHON And C++
+- Good Knowledge In HTML,CSS,JS,React.Js,PHP,C,PYTHON And C++
 - Basic Knowledge Of JAVA.
 
 
