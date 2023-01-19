@@ -45,10 +45,10 @@
 <a href="https://twitter.com/SoumwadeepGuha"><img src="https://user-images.githubusercontent.com/53803245/122164759-df31da00-ce94-11eb-9257-9909aad6c986.png" width="50" height="50" /></a>
 
 <a href="https://github.com/soumwadeep?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumwadeep&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api?username=soumwadeep&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/soumwadeep?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumwadeep&langs_count=10&show_icons=true&theme=radical" />
+  <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api/top-langs/?username=soumwadeep&langs_count=10&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/soumwadeep?tab=repositories">
