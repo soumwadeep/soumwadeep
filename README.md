@@ -31,11 +31,12 @@
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/66bbf9242b1ccffebb5d46f376f5036b527fad48-480x480.png" alt="JS" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/34be54263e18fa2aea611c6b3b388b76e978e7d7-64x64.png" alt="ReactJs" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/b5262b9f35007ef3ab6e1da53612e7579288eeda-512x512.png" alt="NextJs" width="40" height="40"/>
-  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/b5262b9f35007ef3ab6e1da53612e7579288eeda-512x512.png" alt="NextJs" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/e4f86d2200d2d35c30f7b1494e96b9595ebc2751-2545x2565.png" alt="ThreeJs" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/59081428a27691d615509513bb5406cf0d33bab9-1200x956.png" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/358489399d98b10f9766b08312175ae8b1411180-1024x1024.png" alt="TailwindCss" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/0809f78b1f480e425e6c9649935ad12e339026da-512x512.png" alt="Firebase" width="40" height="40"/>
+ </p>
+ <p align ="left">
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/7e67b17a12494aa1eaf0e4fe081d8702d320905f-384x384.png" alt="Appwrite" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/c77812468e0caeed51adf750c2fba797ec1c1be7-512x512.png" alt="mySql" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/b0c2ecc3d3151ca4af5e1fde63df23cb347bbe7b-512x512.png" alt="C" width="40" height="40"/>
