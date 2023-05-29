@@ -35,9 +35,9 @@
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/59081428a27691d615509513bb5406cf0d33bab9-1200x956.png" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/358489399d98b10f9766b08312175ae8b1411180-1024x1024.png" alt="TailwindCss" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/0809f78b1f480e425e6c9649935ad12e339026da-512x512.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/7e67b17a12494aa1eaf0e4fe081d8702d320905f-384x384.png" alt="Appwrite" width="40" height="40"/>
  </p>
  <p align ="left">
-  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/7e67b17a12494aa1eaf0e4fe081d8702d320905f-384x384.png" alt="Appwrite" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/c77812468e0caeed51adf750c2fba797ec1c1be7-512x512.png" alt="mySql" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/b0c2ecc3d3151ca4af5e1fde63df23cb347bbe7b-512x512.png" alt="C" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/053ef810fbde6c201023e5445a6150d548c71d02-480x480.png" alt="C++" width="40" height="40"/>
