@@ -10,8 +10,7 @@
 - Smart India Hackathon 2022 Champion
 - Hacktoberfest Winner
 - Engaged in communities as core member like Hack Club, Codecademy, Google Developer Student Club's , Skillenza etc.
-- Good Knowledge In HTML,CSS,JS,React.Js,PHP,C,PYTHON And C++
-- Basic Knowledge Of JAVA.
+- Good Knowledge In HTML,CSS,JS,React.Js,Next.Js,C,Java,Python And C++
 
 
 ⚡ **_It's harder to read code than to write it_** ⚡
@@ -19,23 +18,36 @@
 
 ### Things I am passionate about 🎯
 - ***Full Stack Web Development***
-- ***Learning new technologies around***
-- ***Open-source stuff***
+- ***Learning New Technologies Around***
+- ***Open-Source Stuff***
 
 
 ### My Tech Toolbox 🧰
 
 <p align ="left">
-  <img src="https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" alt="Python" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/53803245/114309044-78461c80-9b03-11eb-81bb-f0d309e11018.png" alt="C" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/53803245/122162757-afcd9e00-ce91-11eb-9049-85bc1f2f062a.png" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/53803245/122162404-27e79400-ce91-11eb-9f7d-7d6b3cb029c3.png" alt="HTML" width="35" height="45"/>
-  <img src="https://user-images.githubusercontent.com/53803245/122162502-4d749d80-ce91-11eb-9653-cd3b2ba73893.png" alt="CSS" width="35" height="45"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="35" height="40"/>
-  <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="JS" width="35" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/31f11147f89dbd855a9b948e2ce643ea2f41c0a9-480x480.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/107574d887f1c07c9fbea0704de7f293e244a8f3-480x480.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/2825d163301127c72b6121baebb5e570689596e5-480x480.png" alt="Scss" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/66bbf9242b1ccffebb5d46f376f5036b527fad48-480x480.png" alt="JS" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/34be54263e18fa2aea611c6b3b388b76e978e7d7-64x64.png" alt="ReactJs" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/b5262b9f35007ef3ab6e1da53612e7579288eeda-512x512.png" alt="NextJs" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/b5262b9f35007ef3ab6e1da53612e7579288eeda-512x512.png" alt="NextJs" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/e4f86d2200d2d35c30f7b1494e96b9595ebc2751-2545x2565.png" alt="ThreeJs" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/59081428a27691d615509513bb5406cf0d33bab9-1200x956.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/358489399d98b10f9766b08312175ae8b1411180-1024x1024.png" alt="TailwindCss" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/0809f78b1f480e425e6c9649935ad12e339026da-512x512.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/7e67b17a12494aa1eaf0e4fe081d8702d320905f-384x384.png" alt="Appwrite" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/c77812468e0caeed51adf750c2fba797ec1c1be7-512x512.png" alt="mySql" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/b0c2ecc3d3151ca4af5e1fde63df23cb347bbe7b-512x512.png" alt="C" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/053ef810fbde6c201023e5445a6150d548c71d02-480x480.png" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/f06d550daf64c17076d0d61bd2ab80d6a0f5fd0f-512x512.png" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/aa1dc780814cb5c67190adc0b032bf0671309d9c-64x64.png" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/214f1117c33b03e19c98cfa0de49cbc57b21d9e8-2500x2455.png" alt="VsCode" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/37559aefd58b98e3661ebc071eb7e4a3fe94e397-500x500.png" alt="RapidApi" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/74fd50ee38e078bcc92ba43956646d08cf6dc55d-1300x1300.png" alt="Solidity" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/4f486732e1aecad74c41b6207234f4c8bcef3206-1200x1116.png" alt="MsWord" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/43367a6398f3c0a27b9e23e6793eb0d8c1b38e07-1200x1116.png" alt="MsExcel" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/pzaaoqhm/production/bea54971b31420dd72dbab58fc3f5f4281d9068a-1200x1116.png" alt="MsPowerpoint" width="40" height="40"/>
 </p>
 
 
