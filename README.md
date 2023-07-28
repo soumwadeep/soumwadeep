@@ -5,7 +5,7 @@
 ## Hey there, Welcome to my profile ✌
 
 ### About Me
-- CSE 3rd Year (B.Tech)
+- CSE 4th Year (B.Tech)
 - Love to make websites
 - Smart India Hackathon 2022 Champion
 - Hacktoberfest Winner
