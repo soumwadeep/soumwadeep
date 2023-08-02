@@ -36,6 +36,7 @@
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/358489399d98b10f9766b08312175ae8b1411180-1024x1024.png" alt="TailwindCss" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/0809f78b1f480e425e6c9649935ad12e339026da-512x512.png" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/7e67b17a12494aa1eaf0e4fe081d8702d320905f-384x384.png" alt="Appwrite" width="40" height="40"/>
+<img src="https://cdn.sanity.io/images/pzaaoqhm/production/cd2b876340c55f6b9f3aead05fffde4332207d58-360x360.png" alt="Appwrite" width="40" height="40"/>
  </p>
  <p align ="left">
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/c77812468e0caeed51adf750c2fba797ec1c1be7-512x512.png" alt="mySql" width="40" height="40"/>
@@ -49,6 +50,7 @@
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/4f486732e1aecad74c41b6207234f4c8bcef3206-1200x1116.png" alt="MsWord" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/43367a6398f3c0a27b9e23e6793eb0d8c1b38e07-1200x1116.png" alt="MsExcel" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/bea54971b31420dd72dbab58fc3f5f4281d9068a-1200x1116.png" alt="MsPowerpoint" width="40" height="40"/>
+   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/956958f8e2810e28672627b74e59349a962bc30b-2560x1383.png" alt="Appwrite" width="40" height="40"/>
 </p>
 
 
