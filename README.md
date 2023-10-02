@@ -5,6 +5,7 @@
 ## Hey there, Welcome to my profile ✌
 
 ### About Me
+
 - CSE 4th Year (B.Tech)
 - Love to make websites
 - Smart India Hackathon 2022 Champion
@@ -17,6 +18,7 @@
 
 
 ### Things I am passionate about 🎯
+
 - ***Full Stack Web Development***
 - ***Learning New Technologies Around***
 - ***Open-Source Stuff***
@@ -54,6 +56,7 @@
 </p>
 
 ### Get in touch 📱
+
 <a href="https://www.linkedin.com/in/soumwadeep-guha-5b60031bb/"><img src="https://user-images.githubusercontent.com/53803245/122164708-d17c5480-ce94-11eb-9ebb-2bc93ad85295.png" width="50" height="50" /></a>
 <a href="https://twitter.com/SoumwadeepGuha"><img src="https://user-images.githubusercontent.com/53803245/122164759-df31da00-ce94-11eb-9257-9909aad6c986.png" width="50" height="50" /></a>
 
