@@ -8,9 +8,9 @@
 - CSE 4th Year (B.Tech)
 - Love to make websites
 - Smart India Hackathon 2022 Champion
-- Hacktoberfest Winner
+- Open Source Contributor
 - Engaged in communities as core member like Hack Club, Codecademy, Google Developer Student Club's , Skillenza etc.
-- Good Knowledge In HTML,CSS,JS,React.Js,Next.Js,C,Java,Python And C++
+- Good Knowledge In HTML,CSS,JS,React.Js,Next.Js,C,Java,Python,C++ And Many More...
 
 
 ⚡ **_It's harder to read code than to write it_** ⚡
@@ -71,19 +71,19 @@
 
 ### My Most Used Languages
 
-<center>
+<p align="center">
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api/top-langs/?username=soumwadeep&langs_count=10&show_icons=true&theme=radical" />
 </a>
-</center>
+</p>
 
 ### My Hard Earned Trophies
 
-<center>
+<p align="center">
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=soumwadeep&theme=onedark" />
 </a>
-</center>
+</p>
 
 
 
