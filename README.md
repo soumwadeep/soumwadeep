@@ -52,15 +52,14 @@
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/bea54971b31420dd72dbab58fc3f5f4281d9068a-1200x1116.png" alt="MsPowerpoint" width="40" height="40"/>
    <img src="https://cdn.sanity.io/images/pzaaoqhm/production/956958f8e2810e28672627b74e59349a962bc30b-2560x1383.png" alt="Appwrite" width="40" height="40"/>
 </p>
-<br/>
-
-### My Badges
-
-[![@soumwadeep's Holopin board](https://holopin.io/api/user/board?user=soumwadeep)](https://holopin.io/@soumwadeep)
 
 ### Get in touch 📱
 <a href="https://www.linkedin.com/in/soumwadeep-guha-5b60031bb/"><img src="https://user-images.githubusercontent.com/53803245/122164708-d17c5480-ce94-11eb-9ebb-2bc93ad85295.png" width="50" height="50" /></a>
 <a href="https://twitter.com/SoumwadeepGuha"><img src="https://user-images.githubusercontent.com/53803245/122164759-df31da00-ce94-11eb-9257-9909aad6c986.png" width="50" height="50" /></a>
+
+### My Badges
+
+[![@soumwadeep's Holopin board](https://holopin.io/api/user/board?user=soumwadeep)](https://holopin.io/@soumwadeep)
 
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api?username=soumwadeep&count_private=true&show_icons=true&theme=radical" />
