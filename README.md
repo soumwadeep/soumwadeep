@@ -63,22 +63,27 @@
 
 ### My Overall Stats
 
+<center>
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api?username=soumwadeep&count_private=true&show_icons=true&theme=radical" />
 </a>
+</center>
 
 ### My Most Used Languages
 
-
+<center>
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api/top-langs/?username=soumwadeep&langs_count=10&show_icons=true&theme=radical" />
 </a>
+</center>
 
 ### My Hard Earned Trophies
 
+<center>
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=soumwadeep&theme=onedark" />
 </a>
+</center>
 
 
 
