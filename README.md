@@ -61,12 +61,20 @@
 
 [![An image of @soumwadeep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumwadeep)](https://holopin.io/@soumwadeep)
 
+### My Overall Stats
+
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api?username=soumwadeep&count_private=true&show_icons=true&theme=radical" />
 </a>
+
+### My Most Used Languages
+
+
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api/top-langs/?username=soumwadeep&langs_count=10&show_icons=true&theme=radical" />
 </a>
+
+### My Hard Earned Trophies
 
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=soumwadeep&theme=onedark" />
