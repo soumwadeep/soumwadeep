@@ -59,7 +59,7 @@
 
 ### My Badges
 
-[![@soumwadeep's Holopin board](https://holopin.io/api/user/board?user=soumwadeep)](https://holopin.io/@soumwadeep)
+[![@soumwadeep's Holopin badges](https://holopin.io/api/user/badges?user=soumwadeep)](https://holopin.io/@soumwadeep)
 
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api?username=soumwadeep&count_private=true&show_icons=true&theme=radical" />
