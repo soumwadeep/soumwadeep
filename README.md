@@ -52,6 +52,9 @@
   <img src="https://cdn.sanity.io/images/pzaaoqhm/production/bea54971b31420dd72dbab58fc3f5f4281d9068a-1200x1116.png" alt="MsPowerpoint" width="40" height="40"/>
    <img src="https://cdn.sanity.io/images/pzaaoqhm/production/956958f8e2810e28672627b74e59349a962bc30b-2560x1383.png" alt="Appwrite" width="40" height="40"/>
 </p>
+<br/>
+
+### My Badges
 
 [![@soumwadeep's Holopin board](https://holopin.io/api/user/board?user=soumwadeep)](https://holopin.io/@soumwadeep)
 
