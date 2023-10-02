@@ -63,11 +63,11 @@
 
 ### My Overall Stats
 
-<center>
+<p align="center">
 <a href="https://github.com/soumwadeep?tab=repositories">
   <img align="center" src="https://soumwadeep-github-readme-stats.vercel.app/api?username=soumwadeep&count_private=true&show_icons=true&theme=radical" />
 </a>
-</center>
+</p>
 
 ### My Most Used Languages
 
