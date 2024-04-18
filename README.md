@@ -8,8 +8,11 @@
 
 - CSE 4th Year (B.Tech)
 - Love to make websites
+- Student Of The Year 2022-2023
 - Smart India Hackathon 2022 Champion
 - Open Source Contributor
+- Freelancer
+- Student Mentor SIT Tech Frenzy
 - Engaged in communities as core member like Hack Club, Codecademy, Google Developer Student Club's , Skillenza etc.
 - Good Knowledge In HTML,CSS,JS,React.Js,Next.Js,C,Java,Python,C++ And Many More...
 
