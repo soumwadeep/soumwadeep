@@ -6,7 +6,7 @@
 
 ### About Me
 
-- CSE 4th Year (B.Tech)
+- CSE Graduate (B.Tech)
 - Love to make websites
 - Student Of The Year 2022-2023
 - Smart India Hackathon 2022 Champion
